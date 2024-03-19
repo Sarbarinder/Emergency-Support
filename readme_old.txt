@@ -1,4 +1,4 @@
-#Project tile Emergency Support by Sarbarinder
+#Project tile Emergency Support
 
 ## Project Summary
 The MongoDB database designed for emergency response facilitates efficient coordination and management of resources during disaster situations. It comprises collections for organizations, personnel, locations, incidents, resources, and tasks. These entities store pertinent information such as organization details, personnel roles, incident descriptions, resource availability, and task assignments. With this database, stakeholders can streamline communication, track resource allocation, and prioritize tasks to effectively respond to emergencies, ensuring timely and coordinated efforts for disaster preparedness and response.
