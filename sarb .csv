@@ -1,0 +1,5 @@
+﻿type,number,location,date(2024),time
+police,100,queen st,12-Mar,10:15
+hospital,102,torbram,15-Mar,4:30
+fire,103,dixie,19-Mar,2:10
+traffic,104,steeles,22-Mar,7:30
